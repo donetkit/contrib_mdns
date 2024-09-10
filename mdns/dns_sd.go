@@ -1,4 +1,4 @@
-package contrib_mdns
+package mdns
 
 import "github.com/miekg/dns"
 
