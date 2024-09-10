@@ -1,4 +1,4 @@
-module contrib_mdns
+module github.com/donetkit/contrib_mdns
 
 go 1.16.0
 
